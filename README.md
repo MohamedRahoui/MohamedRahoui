@@ -96,6 +96,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MohamedRahoui/MohamedRahoui/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/MohamedRahoui/MohamedRahoui/output/snake.svg" alt="Snake animation" />
 
 ###
