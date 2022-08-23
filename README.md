@@ -9,7 +9,7 @@
 
 ###
 
-<img align="left" height="150" src="https://drive.google.com/uc?export=download&id=1SNE6Ac_nRKMlKjMJboI4vmEmfkuAudeu"  />
+<img align="right" height="150" src="https://drive.google.com/uc?export=download&id=1SNE6Ac_nRKMlKjMJboI4vmEmfkuAudeu"  />
 
 ###
 
@@ -94,8 +94,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/MohamedRahoui/MohamedRahoui/output/snake.svg" alt="Snake animation SVG" />
+<img src="https://raw.githubusercontent.com/MohamedRahoui/MohamedRahoui/output/snake.svg" alt="Snake animation" />
 
 ###
