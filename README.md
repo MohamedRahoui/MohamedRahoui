@@ -2,14 +2,16 @@
 
 ###
 
+<br clear="both">
+
+<img align="right" src="https://profile-counter.glitch.me/MohamedRahoui/count.svg?"  />
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&username=MohamedRahoui" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=react&hide_border=true&username=MohamedRahoui" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://drive.google.com/uc?export=download&id=1SNE6Ac_nRKMlKjMJboI4vmEmfkuAudeu"  />
 
 ###
 
@@ -94,6 +96,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MohamedRahoui/MohamedRahoui/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/MohamedRahoui/MohamedRahoui/blob/output/snake.svg" alt="Snake animation" />
 
 ###
