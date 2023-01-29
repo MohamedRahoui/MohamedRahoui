@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mohamed Rahoui and I'm a Full Stack Engenieer</h2>
+<h2 align="left">Hi 👋! My name is Mohamed Rahoui and I'm a FullStack engineer</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&username=MohamedRahoui" height="150" alt="stats graph"  />
